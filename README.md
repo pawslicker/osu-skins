@@ -1,6 +1,6 @@
 # osu-skins
 my osu! skins if you want another skin not listed here - 
-dm me twitchdash#1420
+dm me twitchdash#3745
 
 # [Rafis(mrekk edition)](https://www.dropbox.com/s/xb48zt54gieci2r/Rafis%20HDDT%20mrekk.osk?dl=1)
 ![](https://user-images.githubusercontent.com/57836484/159883001-cc79bb31-a1b2-4d4a-bcc3-14ce5255928a.png)
