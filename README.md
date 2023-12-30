@@ -1,13 +1,14 @@
 # osu-skins
 my osu! skins
 
-# [Rafis(mrekk edition)](https://www.dropbox.com/s/xb48zt54gieci2r/Rafis%20HDDT%20mrekk.osk?dl=1)
-![](https://user-images.githubusercontent.com/57836484/159883001-cc79bb31-a1b2-4d4a-bcc3-14ce5255928a.png)
+# [Furry Hacks skin (NoMod edition)](https://www.dropbox.com/scl/fi/jpbyjaf4k130831dgerih/Furry-Hacks-SFW-NoMod.osk?rlkey=21xavda2cp8mouvapia9z7jwv&dl=1)
+![](https://i.ibb.co/hMfRhj9/image.png)
 
-# [Rafis(spazza17 edition)](https://www.dropbox.com/s/46pa2b32oeb9rdl/-%20%20%20%20%20%23%20Spazza17%20v2%20%5Bfumohere%5D.osk?dl=1)
-![](https://user-images.githubusercontent.com/71230537/147388331-727d4715-b226-4188-aa24-bb07e4c05739.jpg)
+# [Furry Hacks skin (NoMod InstaFade edition)](https://www.dropbox.com/scl/fi/czz8g5hnmcfz3cphktdkv/Furry-Hacks-SFW-NoMod-Instafade.osk?rlkey=tyfmy5yq3qt1srdl8dcddmhzy&dl=1)
+![](https://i.ibb.co/bFn6Mnc/image.png)
 
-# [Tekkito Private Remake](https://www.dropbox.com/s/60es28d53r37mhd/tekkito%20private%20remake.osk?dl=1)
-![](https://i.imgur.com/jh2MjSy.jpeg)
+# [Furry Hacks skin (DT edition)](https://www.dropbox.com/scl/fi/dlp4srglzc76qkljmgvco/Furry-Hacks-SFW-DT.osk?rlkey=yd6vn6yb730j78fxy006pb2u5&dl=1)
+![](https://i.ibb.co/rGChGr3/image.png)
 
-# [Gata Skin 5.7.0](https://www.dropbox.com/s/bd6jgu98tqypaia/GATA%20SKIN%20VER%205.7.0.osk?dl=1)
+# [Furry Hacks skin (DT InstaFade edition)](https://www.dropbox.com/scl/fi/hv5vifmx2qms8v2absta0/Furry-Hacks-SFW-DT-instafade.osk?rlkey=mj9mirruwwxlrmlpu016kz7xt&dl=1)
+![](https://i.ibb.co/3BSBX9k/image.png)
