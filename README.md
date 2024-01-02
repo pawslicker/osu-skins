@@ -12,3 +12,9 @@ my osu! skins
 
 # [Furry Hacks skin (DT InstaFade edition)](https://www.dropbox.com/scl/fi/hv5vifmx2qms8v2absta0/Furry-Hacks-SFW-DT-instafade.osk?rlkey=mj9mirruwwxlrmlpu016kz7xt&dl=1)
 ![](https://i.ibb.co/3BSBX9k/image.png)
+
+# [Furry Hacks skin (HR edition)](https://www.dropbox.com/scl/fi/z9rae5llli5aiwf1gz9tw/Furry-Hacks-SFW-HR.osk?rlkey=ys7qsx0byd3m95sfq6vqqyzay&dl=1)
+![](https://i.ibb.co/LSWSHkw/image.png)
+
+# [Furry Hacks skin (HR InstaFade edition)](https://www.dropbox.com/scl/fi/nagzmpscy4jvvrug9r3jz/Furry-Hacks-SFW-HR-instafade.osk?rlkey=25ryg6xuc92yqjxhi0b65b7i0&dl=1)
+![](https://i.ibb.co/QdHfH7b/image.png)
