@@ -1,5 +1,9 @@
 # osu-skins
 my osu! skins
+# [Furry Hacks skin (NoMod edition latest)](https://www.dropbox.com/scl/fi/gtdqhabgw3eo04evpgh8z/Furry-Hacks-SFW-NoMod-V2.osk?rlkey=5wlq1iyxaeiyul4prnton54mf&dl=1)
+![](https://github.com/pawslicker/osu-skins/assets/57836484/289b2c59-d140-45a3-b36c-f410017b9fb7)
+# [Furry Hacks skin (DT edition latest)](https://www.dropbox.com/scl/fi/v0f2reuf10am143rihvju/Furry-Hacks-SFW-DT-V2.osk?rlkey=sh6fplgc8coojcnhgz2p4zrvq&dl=1)
+![](https://i.ibb.co/jrbsJtd/image.png)
 
 # [Furry Hacks skin (NoMod edition)](https://www.dropbox.com/scl/fi/jpbyjaf4k130831dgerih/Furry-Hacks-SFW-NoMod.osk?rlkey=21xavda2cp8mouvapia9z7jwv&dl=1)
 ![](https://i.ibb.co/hMfRhj9/image.png)
